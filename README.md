@@ -1,5 +1,13 @@
 # Hangman Game in ReactJS Guide
-
+<div align="center">
+  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
+</div>
+<h1 align="center">
+  Hangman Game Version 1
+</h1>
+<div align="center">
+  <img alt="Demo" src="https://github.com/eldoJr/hangman_game-ReactJS/blob/main/hangman.png" />
+</div>
 ## Open the Project
 1. Open the project folder in your VS Code.
 
@@ -10,9 +18,10 @@
 
 Click on the `localhost` link that appears in the terminal to open the project in your browser and check its functionality.
 
-If you get an error or get stuck, feel free to message me on Buy Me a Coffee.
-[Buy Me A Coffee](https://www.buymeacoffee.com/codingnepal)
+### TL;DR
+
+Yes, you can fork this repo. Please give proper credit by linking back to [CodingNepal](https://www.buymeacoffee.com/codingnepal). Thanks!
 
 ---
 
-Happy coding!
+Happy Hacking!
