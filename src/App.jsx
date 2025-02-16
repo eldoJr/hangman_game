@@ -1,4 +1,3 @@
-// Importing necessary components and context
 import GameBoard from "./components/GameBoard";
 import GameOverModal from "./components/GameOverModal";
 import HangmanIllustration from "./components/HangmanIllustration";
